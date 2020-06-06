@@ -4,7 +4,7 @@
 # DNS
 Drinking-water Notification System
 
-Purpose: I used to drink less water per day. So, I build this project to remind me drink water. 
+Purpose: I used to drink less water per day. So, I build this object oriented project to remind me drink water. 
 
 Features:
   1. Track daily consumption of water
