@@ -1,3 +1,6 @@
+
+
+
 # DNS
 Drinking-water Notification System
 
@@ -9,8 +12,8 @@ Features:
   3. Customizable configuration
   4. Personalized Report Delivery
 
-Prerequisite: Python 3+, Windows OS.
-Python packages needed: plyer
+Prerequisite: Python 3+, Windows 10 OS.
+Python packages needed: win10toast, ikinter
 
 How to use this:
   1. Download this project and move it to a folder.
