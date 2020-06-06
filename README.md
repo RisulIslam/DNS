@@ -4,6 +4,9 @@
 # DNS
 Drinking-water Notification System
 
+
+![](ss%20of%20gui.PNG)
+
 Purpose: I used to drink less water per day. So, I build this object oriented project to remind me drink water. 
 
 Features:
